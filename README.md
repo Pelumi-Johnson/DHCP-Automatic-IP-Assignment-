@@ -22,7 +22,7 @@ Instead of manually configuring each device, the network provides IP addressing 
 This process allows devices to join the network without manual setup.
 
 ### 📸 DHCP Process Visualization
-![DHCP Flow](dhcp-flow.png)
+![DHCP Flow](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/blob/main/Screenshot%202026-03-28%20095528.png)
 
 ---
 
