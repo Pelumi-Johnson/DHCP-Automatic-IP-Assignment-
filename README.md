@@ -59,7 +59,7 @@ no shutdown
 
 ---
 
-## 🧠 What Was Done
+## What Was Done
 
 - Created a DHCP pool
 - Defined the network range
@@ -103,7 +103,7 @@ Then set PCs to DHCP again.
 
 ---
 
-## 🧠 What Happened
+## What Happened
 
 Devices assigned themselves IPs in the range:
 169.254.x.x
@@ -114,7 +114,7 @@ It indicates that no DHCP server is available on the network.
 
 ---
 
-## 🧠 Key Concepts Learned
+## Key Concepts Learned
 
 - DHCP automatically assigns IP addresses to devices
 - The DORA process enables communication between client and server
