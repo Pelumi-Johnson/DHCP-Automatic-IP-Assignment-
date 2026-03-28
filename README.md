@@ -86,7 +86,7 @@ Desktop → IP Configuration → DHCP
 Tested communication between devices using ping.
 
 ### 📸 Successful Communication
-![Ping Test](ping-success.png)
+![Ping Test](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/blob/main/Screenshot%202026-03-28%20102605.png)
 
 ---
 
