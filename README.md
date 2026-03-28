@@ -99,7 +99,7 @@ no ip dhcp pool NETWORKPOOL
 Then set PCs to DHCP again.
 
 ### 📸 APIPA Address (No DHCP)
-![APIPA Address](apipa.png)
+![APIPA Address](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/blob/main/Screenshot%202026-03-28%20094811.png)
 
 ---
 
