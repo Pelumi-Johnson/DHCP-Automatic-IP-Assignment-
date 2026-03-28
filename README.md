@@ -77,7 +77,7 @@ Set both PCs to DHCP:
 Desktop → IP Configuration → DHCP
 
 ### 📸 PC Receiving IP Automatically
-![PC DHCP Assignment](pc-dhcp.png)
+![PC DHCP Assignment](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/blob/main/Screenshot%202026-03-28%20094339.png)
 
 ---
 
