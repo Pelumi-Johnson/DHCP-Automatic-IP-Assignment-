@@ -55,7 +55,7 @@ ip address 192.168.1.1 255.255.255.0
 no shutdown  
 
 ### 📸 DHCP Configuration on Router
-![Router DHCP Config](router-dhcp.png)
+![Router DHCP Config](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/blob/main/Screenshot%202026-03-28%20100653.png)
 
 ---
 
