@@ -33,7 +33,7 @@ Rebuilt the network from memory using:
 - 2 PCs
 
 ### 📸 Network Topology
-![Topology](topology.png)
+![Topology](https://github.com/Pelumi-Johnson/Day-5-DHCP-Automatic-IP-Assignment-/blob/main/Screenshot%202026-03-28%20093825.png)
 
 ---
 
