@@ -1,4 +1,4 @@
-# 🖧 Day 5 | DHCP (Automatic IP Assignment)
+# 🖧 DHCP (Automatic IP Assignment)
 
 ## 🎯 Objective
 Understand how devices automatically receive IP addresses and how networks eliminate manual configuration through DHCP.
